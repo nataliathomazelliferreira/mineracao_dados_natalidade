@@ -114,8 +114,8 @@ pip install pandas matplotlib scikit-learn mlxtend
 
 ## Integrantes
 
-- Seu Nome
-- Nome da dupla
+- Natalia Thomazelli Ferreira
+- Vladimir Queiroz Sejas
 
 ---
 
