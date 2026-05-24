@@ -99,7 +99,7 @@ mlxtend
 1. Clone o repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/nataliathomazelliferreira/mineracao_dados_natalidade.git
 ```
 
 2. Instale as bibliotecas necessárias:
