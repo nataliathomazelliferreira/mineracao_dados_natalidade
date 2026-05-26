@@ -1,0 +1,50 @@
+ Nascidos vivos - Brasil
+Nascim p/resid.mãe por Região/Unidade da Federação e Consult pré-natal
+Período:2000-2024
+"Região/Unidade da Federação";"Nenhuma";"De 1 a 3 consultas";"De 4 a 6 consultas";"De 1 a 6 consultas, não especificado";"7 ou mais consultas";"Ignorado";"Total"
+"Região Norte";380832;1109926;2950555;84;3144435;90405;7676237
+".. Rondônia";27291;60562;230972;-;341907;8239;668971
+".. Acre";37462;75475;137536;5;145913;7204;403595
+".. Amazonas";104445;300941;707417;7;714067;38684;1865561
+".. Roraima";17869;47291;96165;2;113433;2774;277534
+".. Pará";161189;486459;1414166;11;1382270;27368;3471463
+".. Amapá";23728;79358;140955;56;120918;2914;367929
+".. Tocantins";8848;59840;223344;3;325927;3222;621184
+"Região Nordeste";724948;2068630;7347739;126;10506968;332292;20980703
+".. Maranhão";105985;499010;1216571;28;1026922;32799;2881315
+".. Piauí";32322;121278;487933;8;598991;11335;1251867
+".. Ceará";73128;209575;1090040;23;1829062;41601;3243429
+".. Rio Grande do Norte";25762;90728;424207;-;632774;13684;1187155
+".. Paraíba";39192;85418;468511;14;846868;22066;1462069
+".. Pernambuco";101431;275853;1147216;2;1939681;34485;3498668
+".. Alagoas";71572;130531;440485;7;702783;17322;1362700
+".. Sergipe";16193;88277;281605;20;459462;14436;859993
+".. Bahia";259363;567960;1791171;24;2470425;144564;5233507
+"Região Sudeste";395265;1349043;6060042;1733;19932104;426079;28164266
+".. Minas Gerais";80923;358400;1647614;503;4396373;62292;6546105
+".. Espírito Santo";20467;80873;359270;1;868191;12896;1341698
+".. Rio de Janeiro";127442;322951;1312377;14;3567349;89973;5420106
+".. São Paulo";166433;586819;2740781;1215;11100191;260918;14856357
+"Região Sul";118958;454916;1953798;511;7042494;45131;9615808
+".. Paraná";30356;137546;662847;6;3003195;14383;3848333
+".. Santa Catarina";19961;104737;555479;503;1579650;12037;2272367
+".. Rio Grande do Sul";68641;212633;735472;2;2459649;18711;3495108
+"Região Centro-Oeste";107891;369505;1473947;17;3737161;61915;5750436
+".. Mato Grosso do Sul";17821;72781;258826;9;678192;7030;1034659
+".. Mato Grosso";16842;78311;350880;4;873827;4909;1324773
+".. Goiás";47802;139717;598607;4;1492485;33478;2312093
+".. Distrito Federal";25426;78696;265634;-;692657;16498;1078911
+"Total";1727894;5352020;19786081;2471;44363162;955822;72187450
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC
+ Notas:
+ 
+ Dados finais disponíveis até 2024 e atualizados em 02/12/2025.
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
+ 
+ * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
+ Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
+ 

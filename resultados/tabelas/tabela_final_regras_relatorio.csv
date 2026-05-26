@@ -1,0 +1,3 @@
+﻿Antecedente,Consequente,Suporte,Confiança,Lift
+Mae_35_39_alta,Queda_nascimento_alta,0.297,0.786,2.077
+Queda_nascimento_alta,Mae_35_39_alta,0.297,0.786,2.077
